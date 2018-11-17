@@ -21,9 +21,9 @@ body, html {
     #secondary { width:30%; margin-left:3%;}  
 }
 /* Tabled Portrait */
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
     * { margin: 0; }
-}
+}*/
 
 * {box-sizing: border-box}
 
