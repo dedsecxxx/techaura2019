@@ -249,6 +249,7 @@ h1 {
     height: 700px;
     float: right;
     background-image: url(../img/bg-about.jpeg);
+
     border-left: 200px solid #fff;
     border-top: 700px solid transparent;
 }
