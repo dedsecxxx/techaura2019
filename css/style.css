@@ -111,6 +111,7 @@ h1 {
     color: #fff;
 }
 
+
 .btn-back-to-top {
     position: fixed;
     bottom: 20px;
@@ -1111,11 +1112,19 @@ form .form-control {
 
 
 /*====================================================
-                NAVIGATION(TEMPORARY)
+                (TEMPORARY)
 ======================================================*/
 
 a.navbar-brand h1 {
     color: #fff;
     font-size: 36px;
     margin: 0;
+}
+.know {
+  
+  animation-iteration-count: infinite;
+}
+.know:hover {
+  
+  animation-iteration-count: 0;
 }
