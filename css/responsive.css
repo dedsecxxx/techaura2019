@@ -60,7 +60,10 @@
 /* Small Devices (Portrait Tablets & Small Desktops) */
 
 @media (min-width: 768px) and (max-width: 992px) {
-
+    
+    p {
+        font-size: 22px;
+    }
     /* Mobile menu */
     .navbar {
         background: rgba(0, 0, 0, .7);

@@ -14,6 +14,7 @@ p {
     font-weight: 300;
 }
 
+
 h3 {
     color: #41464b;
     text-transform: uppercase;
@@ -658,7 +659,7 @@ a:focus {
 
 #blitz-cover {
     height: 100%;
-    background-image: url("../img/blitzkrieg/bg.jpeg");
+    background-image: url("../img/blitzkrieg/bg.png");
 
 }
 
