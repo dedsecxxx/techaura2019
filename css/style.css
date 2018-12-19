@@ -670,6 +670,9 @@ h2.blitz-title {
 #blitz-cover p {
     color: white;
 }
+#cs-go p,#dota2 p,#mobile-legends p,#bands p {
+    color: black;
+}
 
 .ch-item {
     width: 100%;
