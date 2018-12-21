@@ -27,9 +27,11 @@ h1 {
     margin: 0 0 30px 0;
     text-transform: uppercase;
 }
+
 a {
     color: #34c6d3;
 }
+
 h4.modal-title {
     font-size: 30px;
     font-weight: 700;
@@ -441,7 +443,7 @@ h4.modal-title {
 }
 
 a {
-    
+
     text-decoration: none !important;
     outline: none;
 }
@@ -595,41 +597,46 @@ a:focus {
 
 
 .know-rules {
-  
-  /*font-size: 30px;*/ 
-  margin: 20px 0;
-  animation-iteration-count: infinite;
+
+    /*font-size: 30px;*/
+    margin: 20px 0;
+    animation-iteration-count: infinite;
 
 }
+
 .know-rules:hover {
-  
-  animation-iteration-count: 0;
+
+    animation-iteration-count: 0;
 }
 
 .indo-card {
     box-sizing: border-box;
-    box-shadow: 1px 2px 8px   #888888;
+    box-shadow: 1px 2px 8px #888888;
     margin: 20px 0;
-    
+
 }
 
 .indo-card .head {
     padding: 1px 0 10px 0;
     box-shadow: 1px 1px 1px #888888;
 }
+
 .indo-card .bod img {
     margin: 0.75em 0;
 }
+
 .indo-card .fet a {
     float: right;
     border: 1px solid #34c6d3;
     margin: 0 5px 5px 0;
 }
+
 .indo-card .fet a:hover {
     background-color: #34c6d3;
     color: #fff;
-    
+
 }
+
 .round {
     border-radius: 10px;
     overflow: hidden;
@@ -674,7 +681,11 @@ h2.blitz-title {
 #blitz-cover p {
     color: white;
 }
-#cs-go p,#dota2 p,#mobile-legends p,#bands p {
+
+#cs-go p,
+#dota2 p,
+#mobile-legends p,
+#bands p {
     color: black;
 }
 
@@ -1049,6 +1060,18 @@ form .form-control {
     color: #fff;
 }
 
+#send-btn input[type="submit"] {
+    background: transparent;
+    outline: none;
+    color: white;
+}
+
+#send-btn input[type="submit"]:hover,
+#send-btn input[type="submit"]:focus {
+    background: #fff;
+    color: #41464b;
+}
+
 
 
 /*====================================================
@@ -1166,4 +1189,3 @@ a.navbar-brand h1 {
     font-size: 36px;
     margin: 0;
 }
-

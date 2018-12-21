@@ -27,6 +27,7 @@
     .techaura-nav-wrapper {
         padding: 0;
     }
+
     #techaura-menu > .navbar-nav > li > a {
         color: #fff;
         font-size: 20px !important;
@@ -35,7 +36,7 @@
         font-weight: 700;
         padding: 15px 0;
     }
-    
+
     #home-heading h3 {
         color: #fff;
         font-size: 100px;
@@ -49,6 +50,7 @@
         font-weight: 400;
         margin: 0 0 30px 0;
     }
+
     .btn-general {
         padding: 9px 33px 9px 33px;
         font-size: 21px;
@@ -60,11 +62,13 @@
 /* Small Devices (Portrait Tablets & Small Desktops) */
 
 @media (min-width: 768px) and (max-width: 991px) {
-    
-    p,a {
+
+    p,
+    a {
         font-size: 22px;
         font-weight: 400;
     }
+
     /* Mobile menu */
     .navbar {
         background: rgba(0, 0, 0, .7);
@@ -78,13 +82,15 @@
     .techaura-nav-wrapper {
         padding: 0;
     }
+
     #techaura-menu > .navbar-nav > li > a {
-        
+
         font-size: 18px !important;
-        
+
         letter-spacing: 2px;
         padding: 12px 0;
     }
+
     #home-heading h3 {
         font-size: 100px;
     }
@@ -92,10 +98,12 @@
     #home-heading h5 {
         font-size: 50px;
     }
+
     .btn-general {
         padding: 9px 33px 9px 33px;
         font-size: 21px;
     }
+
     /* About - remove diagonal border */
     #about-bg-diagonal {
         border-left: 0;
@@ -225,9 +233,10 @@
 
 
 @media (max-width:640px) {
-    .hovereffect img{
+    .hovereffect img {
         min-width: 100%;
     }
+
     .hovereffect {
         margin: 0 20%;
     }
@@ -240,6 +249,7 @@
     .hovereffect {
         margin: 0 10%;
     }
+
     #home-heading h3 {
         font-size: 50px;
     }
@@ -247,6 +257,7 @@
     #home-heading h5 {
         font-size: 23px;
     }
+
     header nav div.container-fluid {
         padding-left: 0;
         padding-right: 0;
@@ -271,8 +282,8 @@
 
         font-size: 20px;
     }
+
     .hovereffect {
         margin: 0 3%;
     }
 }
-
