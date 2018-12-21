@@ -114,8 +114,9 @@
     }
 
     #about-content-box {
+        padding: 10% 0;
         width: 100%;
-        height: 350px;
+        height: 100%;
     }
 
     /*Technical Events*/
@@ -207,8 +208,9 @@
     }
 
     #about-content-box {
+        padding: 10% 0;
         width: 100%;
-        height: 350px;
+        height: 100%;
     }
 
     /*Sponsors*/
