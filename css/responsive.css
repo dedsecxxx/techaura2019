@@ -63,11 +63,11 @@
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-    p,
-    a {
-        font-size: 22px;
-        font-weight: 400;
-    }
+    /*p,*/
+    /*a {*/
+    /*    font-size: 22px;*/
+    /*    font-weight: 400;*/
+    /*}*/
 
     /* Mobile menu */
     .navbar {
@@ -267,6 +267,7 @@
     .navbar-brand>img {
         width: 150px;
     }
+   
 }
 
 
